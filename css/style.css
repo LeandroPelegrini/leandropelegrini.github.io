@@ -60,7 +60,7 @@ li {
 
 a.glitch {
     text-decoration: none;
-    color: #ddd;
+    color: #eee;
     font-weight: 900;
     font-size: 15px;
     display: block;
@@ -71,7 +71,7 @@ a.glitch {
 
 a.glitch > span {
     position: absolute;
-    color: #ddd;
+    color: #eee;
     display: block;
     z-index: 1;
     top: 0px;
