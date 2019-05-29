@@ -55,12 +55,12 @@ body {
 
 li {
     display: inline-block;
-    /* padding: 10px; */
+    /* padding-left: 40px; */
 }
 
 a.glitch {
     text-decoration: none;
-    color: #eee;
+    color: #ddd;
     font-weight: 900;
     font-size: 15px;
     display: block;
@@ -71,7 +71,7 @@ a.glitch {
 
 a.glitch > span {
     position: absolute;
-    color: #eee;
+    color: #ddd;
     display: block;
     z-index: 1;
     top: 0px;
