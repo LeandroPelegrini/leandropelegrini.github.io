@@ -1775,7 +1775,7 @@ ul.thin li {
 
 #content {
     margin: auto;
-    margin-top: 95px;
+    margin-top: 40px;
     width: 100%;
     overflow: hidden;
 }
@@ -2071,6 +2071,7 @@ ul.thin li {
     margin: 0px auto 0px auto;
     padding: 15px;
     width: 935px;
+    display: none;
     font-weight: bold;
     font-size: 0.95em;
     border-radius: 2px;
