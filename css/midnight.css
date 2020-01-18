@@ -1563,7 +1563,7 @@ html {
 
 body {
     width: 100%;
-    /* margin-top: 28px; */
+    margin-top: 28px;
     min-width: 951px;
     font-family: Roboto, tahoma, helvetica, sans-serif;
     font-size: 12px;
@@ -1814,7 +1814,7 @@ ul.thin li {
     position: fixed;
     width: 100%;
     height: 33px;
-    /* top: -500px; */
+    top: 369px;
     /* align-items: center; */
     z-index: 1001;
     /* flex-direction: row; */
@@ -3200,8 +3200,7 @@ select {
 }
 
 #noteAlertMsg {
-            position: relative;
-            z-index: 1 !important;
+            display: none;
 }
 
 /*LanÃ§amentos Home*/
