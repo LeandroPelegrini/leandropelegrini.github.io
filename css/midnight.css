@@ -1563,7 +1563,7 @@ html {
 
 body {
     width: 100%;
-    margin-top: 28px;
+    /* margin-top: 28px; */
     min-width: 951px;
     font-family: Roboto, tahoma, helvetica, sans-serif;
     font-size: 12px;
