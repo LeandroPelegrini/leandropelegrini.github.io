@@ -1568,10 +1568,10 @@ body {
     font-family: Roboto, tahoma, helvetica, sans-serif;
     font-size: 12px;
     color: #d8d8d8;
-    background: url(https://leandropelegrini.dev/assets/pattern.png) repeat scroll 0 0 #111!important;
+    background: url(../assets/pattern.png) repeat scroll 0 0 #111!important;
 }
 
-#wrapper{background-color:#272727;height: 293px;box-shadow: 0px 2px 10px 3px #000000b5;}
+#wrapper{background-color:#272727;height: 176px;box-shadow: 0px 2px 10px 3px #000000b5;}
 
 /* Common elements */
 
@@ -1768,9 +1768,10 @@ ul.thin li {
 #header {
     width: 100%;
     padding: 0px 0 0 0;
-    height: 270px;
-    /* padding-bottom: 49px; */
+    height: 160px;
+    padding-bottom: 49px;
     display: block;
+    background: url('https://images.unsplash.com/photo-1613590928141-93eb1bbfb59f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80');
 }
 
 #content {
@@ -1938,7 +1939,7 @@ ul.thin li {
 #userinfo {
     width: 100%;
     height: 33px;
-    top: 295px;
+    top: 142px;
     align-items: center;
     flex-direction: row;
     margin: 0 auto;
@@ -1998,7 +1999,7 @@ ul.thin li {
 
 #searchbars {
     position: absolute;
-    top: 192px;
+    top: 31px;
     width: 100%;
     text-align: center;
     padding: 3px 0px;
@@ -3230,7 +3231,7 @@ ul.bjqs-controls.v-centered li a {
 }
 
 ul.bjqs-controls.v-centered li.bjqs-next a {
-    margin-top: 182px;
+    margin-top: 207px;
     right: 0;
     min-width: 90px;
     margin-bottom: 0;
@@ -3254,7 +3255,7 @@ ul.bjqs-controls.v-centered li.bjqs-next a {
 }
 
 ul.bjqs-controls.v-centered li.bjqs-prev a {
-    margin-top: 182px;
+    margin-top: 207px;
     left: 30px;
     min-width: 90px;
     margin-bottom: 0;
